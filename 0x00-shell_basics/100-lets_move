@@ -1,0 +1,2 @@
+#!/bin/bssh
+mv [[:uppercase:]]* /tmp/u 
